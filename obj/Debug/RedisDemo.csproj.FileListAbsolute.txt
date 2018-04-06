@@ -1,0 +1,16 @@
+C:\Users\JiangYanJun\Desktop\RedisDemo\RedisDemo\bin\Debug\RedisDemo.exe.config
+C:\Users\JiangYanJun\Desktop\RedisDemo\RedisDemo\obj\Debug\RedisDemo.csprojResolveAssemblyReference.cache
+C:\Users\JiangYanJun\Desktop\RedisDemo\RedisDemo\bin\Debug\RedisDemo.exe
+C:\Users\JiangYanJun\Desktop\RedisDemo\RedisDemo\bin\Debug\RedisDemo.pdb
+C:\Users\JiangYanJun\Desktop\RedisDemo\RedisDemo\bin\Debug\ServiceStack.Common.dll
+C:\Users\JiangYanJun\Desktop\RedisDemo\RedisDemo\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\JiangYanJun\Desktop\RedisDemo\RedisDemo\bin\Debug\ServiceStack.Redis.dll
+C:\Users\JiangYanJun\Desktop\RedisDemo\RedisDemo\bin\Debug\ServiceStack.Text.dll
+C:\Users\JiangYanJun\Desktop\RedisDemo\RedisDemo\bin\Debug\ServiceStack.Common.xml
+C:\Users\JiangYanJun\Desktop\RedisDemo\RedisDemo\bin\Debug\ServiceStack.Redis.xml
+C:\Users\JiangYanJun\Desktop\RedisDemo\RedisDemo\bin\Debug\ServiceStack.Text.xml
+C:\Users\JiangYanJun\Desktop\RedisDemo\RedisDemo\obj\Debug\RedisDemo.exe
+C:\Users\JiangYanJun\Desktop\RedisDemo\RedisDemo\obj\Debug\RedisDemo.pdb
+C:\Users\JiangYanJun\Desktop\RedisDemo\bin\Debug\RedisDemo.exe.config
+C:\Users\JiangYanJun\Desktop\RedisDemo\obj\Debug\RedisDemo.exe
+C:\Users\JiangYanJun\Desktop\RedisDemo\obj\Debug\RedisDemo.pdb
